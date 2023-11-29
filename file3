@@ -1,0 +1,13 @@
+git init
+git config --global user.name karhik
+git config --global user.email 21@gmail.com
+touch file1
+git add file1 or git add* git add -a
+git status
+git commit -m label file3
+git log
+git show
+git show cid
+git push
+git config --unset --user.name [D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D --[C[C-global --unset[C user.name karthik
+git config --global --unset user.email 21@com

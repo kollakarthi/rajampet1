@@ -3,3 +3,24 @@ hyderabad
 ts
 cng
 123
+098
+git config --global user.name
+git config --global user.email
+git config --list
+git status
+git log
+git show
+git show cid
+git config --global --unset user.name
+git config --global --unset user.email
+git inti
+[A[C[C[C[C[C[C[Cit
+touch file
+git status
+git add filename
+git commmit -m "label" file name[A[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Dor git add* or git add -a[B[D[D[D[D[D[D[D[D[D
+git log
+git show
+git show cid
+git log -4..to shown recent 4 logs
+git push file name[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[D[D[D[D
