@@ -9,5 +9,4 @@ git 8 git 9
 12
 12
 12y
-jk
 l
